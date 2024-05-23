@@ -1,0 +1,114 @@
+laravle php
+symphony
+framework biblioteki
+
+
+framework-  rozszerzenie do jezyka,  gotowe rozwiazania  , nażuca strukture, daje narzedzia
+
+bibioteka- podpinamy ale nie  sa rdzenie  naszej aplikacji
+
+
+
+npm - zarzadzanie bibliotek lub framework w js
+
+composer - zarzadzanie bibliotek lub framework w php   pomaga zorganizowac moduly pliki 
+
+phyton - pip    , anaconda
+
+
+
+
+
+----------------
+
+
+laravel - open source,  darmo , elegancka składia , duzo funkcji ,  duża społeczność
+
+ważna jest duża społeczność aby było łatwo rozwiazywac problemy
+
+
+
+cechy laravel
+
+
+mvc-- model - view - controler
+
+
+orm     wygoda        ma wbudowana interakcje z baza danych eloquert      (po co to jak jest siqul SQL) mowia przeciwnicy 
+
+
+arisan wiersz polecen 
+
+silnik balade generuje nam kod html jak jfx w js react
+
+routing 
+
+
+testowaie test jednostkowy 
+
+
+te
+
+
+
+symphony jest wieksze i elastyczniejsze bardzej polecane do duzych aplikacji wszechstronna 
+
+
+bootstrap nie wymaga uczneia sie 
+
+
+
+
+
+angular wiekszy niż react
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

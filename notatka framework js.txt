@@ -1,0 +1,74 @@
+REACT
+ANGULAR 
+VUE
+
+bibliteka a framework sa podobne ale można używac zamiennie
+
+
+
+
+REACT
+
+
+SPA  singlepage aplication 
+dynamicznie (np netflix)
+
+
+protekuł http
+
+
+ajax fetch js   jsx
+
+
+
+
+
+REACT kuchenka
+ANGULAR  pełna kuchnia
+VUE kuchenka gazowa biwakowa garnek
+
+
+w 5 klasie 1 angular a reszta react
+
+
+najlepszy jest react ale nieby zalezy od zadania 
+
+
+
+
+
+
+
+
+
+
+
+ANGULAR 
+
+
+
+
+
+
+
+
+VUE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
